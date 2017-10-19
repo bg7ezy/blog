@@ -1,0 +1,23 @@
+#! /usr/bin/env bash
+
+git add ./scaffolds
+git commit -m '默认模板文件'
+git push -u origin master
+git add ./source
+git commit -m '页面、文章配置'
+git push -u origin master
+git add ./themes
+git commit -m '主题文件'
+git push -u origin master
+git add README.md
+git commit -m 'README'
+git push -u origin master
+git add package.json
+git commit -m '附加组件'
+git push -u origin master
+git add _config.yml
+git commit -m '主配置文件'
+git push -u origin master
+git add ./.gitignore
+git commit -m 'null'
+git push -u origin master
