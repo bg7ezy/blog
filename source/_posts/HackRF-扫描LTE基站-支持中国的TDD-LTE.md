@@ -28,4 +28,5 @@ OpenCL加速的 TDD/FDD LTE小区搜索与跟踪源代码: [https://github.com/J
 （国内） [http://v.youku.com/v_show/id_XNjk3Mjc1MTUy.html](http://v.youku.com/v_show/id_XNjk3Mjc1MTUy.html)
 （国外） [http://www.youtube.com/watch?v=3hnlrYtjI-4](http://www.youtube.com/watch?v=3hnlrYtjI-4)
 
-<iframe height=498 width=510 src="http://player.youku.com/embed/XNjk3Mjc1MTUy" frameborder=0 allowfullscreen></iframe>
+
+<iframe height=498 width=510 src="http://player.youku.com/embed/XMTY1MTI3NjMyNA==" frameborder=0 allowfullscreen></iframe>
